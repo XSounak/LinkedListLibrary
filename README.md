@@ -1,7 +1,7 @@
 # Linked-List-C-Library
 Just #include "ll.h" and you're good to go.
 
-Standard Template for creating a Linked List quicky.  Credit: Debasis Sidkar
+Standard Template for creating a Linked List quicky.  
 Functions include:
     1. Insertion (including Head)
     2. Deletion
